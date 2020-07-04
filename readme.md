@@ -6,4 +6,4 @@ You can see this project live at the following URL
 
 https://roshroslin.github.io/Jimi-Hendrix-Tribute-Page
 
-Test from atom push
+Delete from atom test pull
